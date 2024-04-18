@@ -1,0 +1,1 @@
+persoaneSELECT * FROM lab9.excursii;
